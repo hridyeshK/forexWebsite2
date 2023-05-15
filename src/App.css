@@ -1,0 +1,9 @@
+.my-button-white:hover {
+    background-color: #555454 !important;
+    color: #ffffff !important;
+  }
+
+.my-button-red:hover {
+    background-color: #ff5959 !important;
+    color: #ffffff !important;
+  }
