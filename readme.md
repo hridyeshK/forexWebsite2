@@ -1,1 +1,1 @@
-# A financial website built using React displaying forex and cryptocurrency data
+# A financial website built using React and material UI displaying forex and cryptocurrency data
