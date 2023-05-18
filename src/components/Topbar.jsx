@@ -12,7 +12,7 @@ import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
 export default function Topbar(props) {
   return (
     <Box sx={{ flexGrow: 1 }} >
-      <AppBar position="static" style={{backgroundColor: "black"}}>
+      <AppBar position="static" style={{backgroundColor: "red"}}>
         <Toolbar >
           <IconButton
             size="large"
